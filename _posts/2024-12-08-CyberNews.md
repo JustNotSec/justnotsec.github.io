@@ -1,15 +1,9 @@
 ---
-title: Ancaman Siber 2024
+title: Ancaman Siber 2024: Meningkatnya Serangan Phishing dan Ransomware
 author: NotSec
 category: [News, Cyber Security]
+date: 2024-12-08
 tags: [News]
----
-
-# Ancaman Siber 2024: Meningkatnya Serangan Phishing dan Ransomware
-
-**08 Desember 2024**  
-Penulis: Tim Keamanan Digital
-
 ---
 
 ## Pendahuluan
