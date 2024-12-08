@@ -28,7 +28,7 @@ url: ""
 github:
   username: justnotsec # change to your GitHub username
 
-linkedin:
+twitter:
   username: muhammad_abdul_malik # change to your Twitter username
 
 social:
@@ -42,7 +42,7 @@ social:
     - https://github.com/justnotsec # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/muhammad-abdul-malik/
+     - https://www.linkedin.com/in/muhammad-abdul-malik
 
 # Site Verification Settings
 webmaster_verifications:
