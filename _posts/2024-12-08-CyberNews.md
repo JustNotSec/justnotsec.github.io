@@ -6,6 +6,7 @@ date: 2024-12-08
 tags: [News]
 ---
 
+---
 ## Pendahuluan
 
 Di tahun 2024, ancaman siber semakin berkembang dengan teknik yang lebih canggih. Laporan terbaru dari perusahaan keamanan digital mengungkapkan bahwa serangan **phishing** dan **ransomware** mengalami peningkatan signifikan, menargetkan individu, perusahaan, hingga institusi pemerintahan.
