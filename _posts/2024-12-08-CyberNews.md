@@ -7,7 +7,6 @@ tags: [News]
 render_with_liquid: false
 ---
 
-# aa
 ---
 ## Pendahuluan
 
