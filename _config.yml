@@ -215,6 +215,8 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+include:
+  - portfolio
 
 jekyll-archives:
   enabled: [categories, tags]
